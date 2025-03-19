@@ -1,2 +1,2 @@
-# iris_classification
-Classifies Iris species using UCI dataset in Google Colab. Built with Python, Pandas, and models: SVM, KNN, Logistic Regression, Decision Tree. Preprocesses data, trains models, and compares performance, enhancing ML skills for robotics/AI.
+# Iris Classification with Machine Learning
+This project implements a machine learning pipeline to classify Iris flower species using the UCI Iris dataset (link). Built in Google Colab with Python, it processes the dataset using Pandas—featuring columns like sepal length, sepal width, petal length, petal width, and class. Four models were trained and evaluated: Support Vector Machine (SVM), K-Nearest Neighbors (KNN), Logistic Regression, and Decision Tree Classifier. The goal was to predict flower species, exploring data preprocessing, model training, and performance comparison. This project sharpens my skills in ML, Python, and predictive analytics, applicable to robotics and AI systems.
